@@ -89,5 +89,6 @@ function deleteMovies(){
         Title: this["title"].value,
         Director:this["director"].value,
         Genere: this["genere"].value
-    };
+
+        
 }
